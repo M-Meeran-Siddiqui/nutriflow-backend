@@ -1,2 +1,24 @@
-# nutriflow-backend
-Backend API for NutriFlow built with Ruby on Rails, featuring secure JWT-based authentication, user management, and structured endpoints for nutrition and fitness features.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
